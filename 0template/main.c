@@ -3,6 +3,8 @@
 #include "func2.h"
 #include "func3.h"
 
+// Morten Håkestad 2023-01-15 15:15 - Sunday
+
 int main(){
 	printf("~/dev/  c/00template/main.c\n");
 	printf("in f int main()\n");
