@@ -6,7 +6,7 @@
 // Morten Håkestad 2023-01-15 15:15 - Sunday
 
 int main(){
-	printf("~/dev/  c/00template/main.c\n");
+	printf("/dat.mnt/dev.c/dev.c.demo/0templeate/main.c\n");
 	printf("in f int main()\n");
 	int ret;
 	ret = 0;
