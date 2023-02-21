@@ -42,7 +42,7 @@ vars:
 
 h: help
 help:
-	@echo "make help"
+	@echo "make help (this list)"
 	@echo "make vars"
 	@echo "make clean"
 	@echo "make all"
