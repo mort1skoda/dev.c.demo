@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git pull
 git status
 git add --all
 git status
